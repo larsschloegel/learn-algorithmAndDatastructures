@@ -15,4 +15,5 @@ public class Detective {
     public void investigate() {
         System.out.println("investigate");
     }
+
 }
